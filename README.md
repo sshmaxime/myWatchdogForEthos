@@ -1,4 +1,4 @@
-# myWatchdogForEthos
+# myWatchdogForEthos 1.3.0
 
 ## Introduction
 
