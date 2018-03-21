@@ -99,6 +99,9 @@ char	**get_array(char **array, char divide, char *str)
     return (array);
 }
 
+// Function which take an array of char (str) and a char delimiter (divide) in parameter.
+// It split the array of char (str) everytime that a char delimiter (divide) is found in the char array (str).
+// Every splitted array of char is stored into an array of char* (array), which is returned.
 char	**str_to_word_tab(char *str, char divide)
 {
     char	**array;
