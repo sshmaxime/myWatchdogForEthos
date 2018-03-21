@@ -6,11 +6,12 @@
 
 char	**str_to_word_tab(char *str, char divide);
 
-
 int main( int argc, char *argv[] )
 {
+    // Sleep 10 minutes in order to let the system boot and start mining.
     sleep(600);
 
+    // Infinite loop because the program is suppose to run always
     while (true) {
 
         FILE *fp;
