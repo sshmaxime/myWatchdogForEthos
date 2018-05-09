@@ -1,5 +1,11 @@
 # myWatchdogForEthos 1.3.0
 
+## My Guarantee 
+
+There is no leak :heavy_check_mark:
+
+There is no valgrind error :heavy_check_mark:
+
 ## Introduction
 
 This script wait 10 minutes after that the system booted and check every minute if one of your GPU crashed. If that's the case it reboot your rig.
